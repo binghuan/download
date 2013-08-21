@@ -1,0 +1,16 @@
+{
+  "name": "違反勞基法事業名單",
+  "description": "Find you food nearby you",
+  "version": "1.0",
+  "launch_path": "/binghuan/download/master/OverTime/link_OverTime.html",
+  "developer":
+  {
+    "name": "BH_Lin",
+    "url": "https://raw.github.com"
+  },
+  "icons":
+  {
+    "128": "https://raw.github.com/binghuan/download/master/OverTime/Icon-128.png",
+    "60":  "https://raw.github.com/binghuan/download/master/OverTime/Icon-60.png"
+  }
+} 

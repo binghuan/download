@@ -1,0 +1,16 @@
+{
+  "name": "KFC Finder",
+  "description": "Find KFC nearby you",
+  "version": "1.0",
+  "launch_path": "/binghuan/download/master/FoodFinder/link_foodfinder.html",
+  "developer":
+  {
+    "name": "BH_Lin",
+    "url": "https://raw.github.com"
+  },
+  "icons":
+  {
+    "128": "https://raw.github.com/binghuan/download/master/FoodFinder/Icon-128.png",
+    "60":  "https://raw.github.com/binghuan/download/master/FoodFinder/Icon-60.png"
+  }
+} 

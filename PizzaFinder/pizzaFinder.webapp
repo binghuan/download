@@ -1,0 +1,16 @@
+{
+  "name": "Pizza Finder",
+  "description": "Find you Pizza nearby you",
+  "version": "1.0",
+  "launch_path": "/binghuan/download/master/FoodFinder/link_pizzaFinder.html",
+  "developer":
+  {
+    "name": "BH_Lin",
+    "url": "https://raw.github.com"
+  },
+  "icons":
+  {
+    "128": "https://raw.github.com/binghuan/download/master/PizzaFinder/Icon-128.png",
+    "60":  "https://raw.github.com/binghuan/download/master/PizzaFinder/Icon-60.png"
+  }
+} 

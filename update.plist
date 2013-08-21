@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>Extension Updates</key>
+   <array>
+     <dict>
+       <key>CFBundleIdentifier</key>
+       <string>com.bh.safari.bhdictionarysearch</string>
+       <key>Developer Identifier</key>
+       <string>VH8FYD6YYB</string>
+       <key>CFBundleVersion</key>
+       <string>1</string>
+       <key>CFBundleShortVersionString</key>
+       <string>1.0</string>
+       <key>URL</key>
+       <string>http://binghuan.github.io/download/SafariExt_BH_DictionarySearch.safariextz?dl=1</string>
+     </dict>
+     <dict>
+       <key>CFBundleIdentifier</key>
+       <string>com.bh.safari.googlemapadd-on</string>
+       <key>Developer Identifier</key>
+       <string>VH8FYD6YYB</string>
+       <key>CFBundleVersion</key>
+       <string>1</string>
+       <key>CFBundleShortVersionString</key>
+       <string>1.0</string>
+       <key>URL</key>
+       <string>http://binghuan.github.io/download/SafariExt_BH_GoogleMapAdd-On.safariextz?dl=1</string>
+     </dict>
+     <dict>
+       <key>CFBundleIdentifier</key>
+       <string>com.yourcompany.safariextbhnewsbar</string>
+       <key>Developer Identifier</key>
+       <string>VH8FYD6YYB</string>
+       <key>CFBundleVersion</key>
+       <string>1</string>
+       <key>CFBundleShortVersionString</key>
+       <string>1.01</string>
+       <key>URL</key>
+       <string>http://binghuan.github.io/download/SafariExt_BH_NewsBar.safariextz?dl=1</string>
+     </dict>
+    <dict>
+       <key>CFBundleIdentifier</key>
+       <string>com.trendmicro.safariextdirectpass</string>
+       <key>Developer Identifier</key>
+       <string>VH8FYD6YYB</string>
+       <key>CFBundleVersion</key>
+       <string>1</string>
+       <key>CFBundleShortVersionString</key>
+       <string>0.01</string>
+       <key>URL</key>
+       <string>http://binghuan.github.io/download/SafariExt_DirectPass.safariextz</string>
+    </dict>     
+   </array>
+</dict>
+</plist>

@@ -1,0 +1,21 @@
+{
+  "name": "違反勞基法事業名單查詢表",
+  "description": "查詢勞委會處罰違反勞基法公司公告的資料",
+  "manifest_version": 2,
+  "version": "2", 
+  "app": {
+    "urls": [
+      "http://ec2-23-20-250-204.compute-1.amazonaws.com/link_OverTime.html"
+    ],
+    "launch": {
+      "web_url": "http://ec2-23-20-250-204.compute-1.amazonaws.com/link_OverTime.html"
+    }
+  },
+  "icons": {
+    "128": "Icon-128.png"
+  },
+  "permissions": [
+    "unlimitedStorage",
+    "geolocation"
+  ]
+}
