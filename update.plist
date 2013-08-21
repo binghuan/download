@@ -6,7 +6,7 @@
    <array>
      <dict>
        <key>CFBundleIdentifier</key>
-       <string>com.bh.safari.bhdictionarysearch</string>
+       <string>com.bh.safari.dictionarysearch</string>
        <key>Developer Identifier</key>
        <string>VH8FYD6YYB</string>
        <key>CFBundleVersion</key>
@@ -14,7 +14,7 @@
        <key>CFBundleShortVersionString</key>
        <string>1.0</string>
        <key>URL</key>
-       <string>http://binghuan.github.io/download/SafariExt_BH_DictionarySearch.safariextz?dl=1</string>
+       <string>http://binghuan.github.io/download/SafariExt_BH_DictionarySearch.safariextz</string>
      </dict>
      <dict>
        <key>CFBundleIdentifier</key>
@@ -26,11 +26,11 @@
        <key>CFBundleShortVersionString</key>
        <string>1.0</string>
        <key>URL</key>
-       <string>http://binghuan.github.io/download/SafariExt_BH_GoogleMapAdd-On.safariextz?dl=1</string>
+       <string>http://binghuan.github.io/download/SafariExt_BH_GoogleMapAdd-On.safariextz</string>
      </dict>
      <dict>
        <key>CFBundleIdentifier</key>
-       <string>com.yourcompany.safariextbhnewsbar</string>
+       <string>com.bh.safari.newsbar</string>
        <key>Developer Identifier</key>
        <string>VH8FYD6YYB</string>
        <key>CFBundleVersion</key>
@@ -38,8 +38,20 @@
        <key>CFBundleShortVersionString</key>
        <string>1.01</string>
        <key>URL</key>
-       <string>http://binghuan.github.io/download/SafariExt_BH_NewsBar.safariextz?dl=1</string>
+       <string>http://binghuan.github.io/download/SafariExt_BH_NewsBar.safariextz</string>
      </dict>
+     <dict>
+       <key>CFBundleIdentifier</key>
+       <string>com.bh.safari.gotothelink</string>
+       <key>Developer Identifier</key>
+       <string>VH8FYD6YYB</string>
+       <key>CFBundleVersion</key>
+       <string>1</string>
+       <key>CFBundleShortVersionString</key>
+       <string>1.0</string>
+       <key>URL</key>
+       <string>http://binghuan.github.io/download/SafariExt_BH_GoToTheLink.safariextz</string>
+     </dict>     
     <dict>
        <key>CFBundleIdentifier</key>
        <string>com.trendmicro.safariextdirectpass</string>
