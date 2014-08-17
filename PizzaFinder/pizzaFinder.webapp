@@ -2,15 +2,15 @@
   "name": "Pizza Finder",
   "description": "Find you Pizza nearby you",
   "version": "1.0",
-  "launch_path": "/binghuan/download/master/FoodFinder/link_pizzaFinder.html",
+  "launch_path": "http://binghuan.herokuapp.com/pizzaFinder.html",
   "developer":
   {
     "name": "BH_Lin",
-    "url": "https://raw.github.com"
+    "url": "http://studiobinghuan.blogspot.tw/"
   },
   "icons":
   {
-    "128": "https://raw.github.com/binghuan/download/master/PizzaFinder/Icon-128.png",
-    "60":  "https://raw.github.com/binghuan/download/master/PizzaFinder/Icon-60.png"
+    "128": "http://binghuan.herokuapp.com/icon/pizzaFinder_128x128.png",
+    "60":  "http://binghuan.herokuapp.com/icon/pizzaFinder-60.png"
   }
 } 

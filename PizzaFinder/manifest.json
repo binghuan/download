@@ -2,13 +2,13 @@
   "name": "Pizza Finder",
   "description": "Find you pizza nearby you",
   "manifest_version": 2,
-  "version": "1", 
+  "version": "1.0.1", 
   "app": {
     "urls": [
-      "http://ec2-23-20-250-204.compute-1.amazonaws.com/link_pizzaFinder.html"
+      "*://binghuan.herokuapp.com/pizzaFinder.html"
     ],
     "launch": {
-      "web_url": "http://ec2-23-20-250-204.compute-1.amazonaws.com/link_pizzaFinder.html"
+      "web_url": "http://binghuan.herokuapp.com/pizzaFinder.html"
     }
   },
   "icons": {
