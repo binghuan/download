@@ -4,6 +4,18 @@
 <dict>
    <key>Extension Updates</key>
    <array>
+   	<dict>
+       <key>CFBundleIdentifier</key>
+       <string>com.bh.safari.readitformeontwitch</string>
+       <key>Developer Identifier</key>
+       <string>VH8FYD6YYB</string>
+       <key>CFBundleVersion</key>
+       <string>20180321</string>
+       <key>CFBundleShortVersionString</key>
+       <string>1.0.2</string>
+       <key>URL</key>
+       <string>http://binghuan.github.io/download/SafariExt_BH_ReadItForMeOnTwitch.safariextz</string>
+     </dict>
      <dict>
        <key>CFBundleIdentifier</key>
        <string>com.bh.safari.dictionarysearch</string>
@@ -51,7 +63,7 @@
        <string>1.0</string>
        <key>URL</key>
        <string>http://binghuan.github.io/download/SafariExt_BH_GoToTheLink.safariextz</string>
-     </dict>     
+     </dict>
     <dict>
        <key>CFBundleIdentifier</key>
        <string>com.trendmicro.safariextdirectpass</string>
@@ -63,7 +75,7 @@
        <string>0.01</string>
        <key>URL</key>
        <string>http://binghuan.github.io/download/SafariExt_DirectPass.safariextz</string>
-    </dict>     
+    </dict>
    </array>
 </dict>
 </plist>
