@@ -1,0 +1,33 @@
+<VAST version="2.0">
+<Ad id="10140886">
+<InLine>
+<AdSystem>Yeahmobi</AdSystem>
+<AdTitle/>
+<Impression>
+<![CDATA[
+https://ads.ymtracking.com/imp/track?app_id=507&offer_id=10140886&creative_id=2_1271023
+]]>
+</Impression>
+<Creatives>
+<Creative id="1" sequence="1">
+<Linear>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[
+https://global.ymtracking.com/trace?app_id=507&offer_id=10140886&type=ff5a4c3f0000000a&creative_id=2_1271023&idfa=123&aff_sub2=
+]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile delivery="progressive" height="360" type="video/mp4" width="640">
+<![CDATA[
+https://videocdn.yeahmobi.com/video/output/wh/640_360/offer/9425213/offer_single_file/1261560/ovs_1261560.mp4
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
