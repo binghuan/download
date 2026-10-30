@@ -1,5 +1,11 @@
 # Download Repository
 
+## Feature overview
+
+![download — feature flow diagram](README-assets/project-preview.svg)
+
+Conceptual feature flow based on this repository; this is a documentation diagram, not an application screenshot.
+
 This repository hosts various downloadable applications, extensions, and resources.
 
 **Base URL:** http://binghuan.github.io/download/
